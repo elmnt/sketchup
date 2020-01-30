@@ -4,14 +4,14 @@
     <title>Librizzle</title>
     <description>Drizzle Krizzle</description>
     <image>
-      <url>https://github.com/elmnt/sketchup/blob/master/sketch-icon.png</url>
+      <url>https://raw.githubusercontent.com/elmnt/sketchup/master/sketch-icon.png</url>
       <title>My Sketch Library</title>
     </image>
     <generator>Sketch</generator>
     <item>
       <title>Fizzle</title>
       <pubDate>Wed, 11 Jul 2018 11:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/elmnt/sketchup/blob/master/librizzle.sketch" type="application/octet-stream" sparkle:version="23"/>
+      <enclosure url="https://github.com/elmnt/sketchup/blob/master/librizzle.sketch?raw=true" type="application/octet-stream" sparkle:version="23"/>
     </item>
   </channel>
 </rss>
