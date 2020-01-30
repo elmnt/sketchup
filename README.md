@@ -1,3 +1,3 @@
 # sketchup
 
-Hello World.
+Experimenting with RSS Sketch Library update notifications.  
