@@ -1,3 +1,3 @@
 # sketchup
 
-Experimenting with RSS Sketch Library update notifications.  
+Experimenting with RSS Sketch Library update notifications.
