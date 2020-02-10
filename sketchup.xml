@@ -4,15 +4,15 @@
     <title>Sketch Library</title>
     <description>My Sketch Library</description>
     <image>
-      <url>https://raw.githubusercontent.com/elmnt/sketchup/master/sketch-icon.png</url>
-      <!--<url>https://github.com/elmnt/sketchup/raw/master/sketch-icon.png</url>-->
+      <!--<url>https://raw.githubusercontent.com/elmnt/sketchup/master/sketch-icon.png</url>-->
+      <url></url>
       <title>Sketch Icon</title>
     </image>
     <generator>Sketch</generator>
     <item>
       <title>Sketch Library</title>
       <pubDate>Wed, 13 Jul 2018 11:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketch-library.dmg" type="application/octet-stream" sparkle:version="47"/>
+      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketch-library.sketch" type="application/octet-stream" sparkle:version="49"/>
     </item>
   </channel>
 </rss>
