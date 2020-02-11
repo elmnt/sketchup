@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Sketch Library</title>
-    <description>My Sketch Library</description>
+    <title>Channel Title</title>
+    <description>Channel Description</description>
     <image>
-      <url>https://raw.githubusercontent.com/elmnt/sketchup/master/sketch-icon.png</url>
+      <url></url>
       <title>Sketch Icon</title>
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>Sketch Library</title>
+      <title>Item Title</title>
       <pubDate>Tue, 11 Feb 2020 09:30:38 +0000</pubDate>
-      <changelog>Removed the color red</changelog>
+      <changelog>Changelog Message</changelog>
       <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketch-library.sketch" type="application/octet-stream" sparkle:version="57"/>
     </item>
   </channel>
