@@ -10,9 +10,9 @@
     <generator>Sketch</generator>
     <item>
       <title>Item Title</title>
-      <pubDate>Tue, 11 Feb 2020 09:30:38 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 09:38:08 +0000</pubDate>
       <changelog>Changelog Message</changelog>
-      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketch-library.sketch" type="application/octet-stream" sparkle:version="57"/>
+      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketch-library.sketch" type="application/octet-stream" sparkle:version="58"/>
     </item>
   </channel>
 </rss>
