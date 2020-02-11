@@ -1,4 +1,4 @@
 # sketchup
-Experimenting with RSS Sketch Library update notifications.
+Exploring Sketch Library Updates with RSS
 
 ![](sketchup.png)
