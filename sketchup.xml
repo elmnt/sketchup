@@ -10,9 +10,6 @@
     <generator>Sketch</generator>
     <item>
       <title>Sketch Library</title>
-      <image>
-        <url>https://raw.githubusercontent.com/elmnt/sketchup/master/sketch-icon.png</url>
-      </image>
       <pubDate>Mon, 10 Feb 2020 14:08:47 +0000</pubDate>
       <changelog>Removed the color red</changelog>
       <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketch-library.sketch" type="application/octet-stream" sparkle:version="55"/>
