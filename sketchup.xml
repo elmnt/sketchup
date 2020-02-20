@@ -9,10 +9,10 @@
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>Sketchup Library v68.0</title>
-      <pubDate>Wed, 19 Feb 2020 13:34:24 +0000</pubDate>
+      <title>Sketchup Library v69.0</title>
+      <pubDate>Thu, 20 Feb 2020 09:36:25 +0000</pubDate>
       <changelog>This is the changelog message.</changelog>
-      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketchup-library.sketch" type="application/octet-stream" sparkle:version="68.0"/>
+      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketchup-library.sketch" type="application/octet-stream" sparkle:version="69.0"/>
     </item>
   </channel>
 </rss>
