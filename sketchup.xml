@@ -9,10 +9,10 @@
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>Sketchup Library v71.0</title>
-      <pubDate>Thu, 20 Feb 2020 20:39:46 +0000</pubDate>
-      <changelog>Changed the dot color to Pink</changelog>
-      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketchup-library.sketch" type="application/octet-stream" sparkle:version="71.0"/>
+      <title>Sketchup Library v72.0</title>
+      <pubDate>Fri, 13 Mar 2020 09:56:42 +0000</pubDate>
+      <changelog>Changed the dot color to Pinkish</changelog>
+      <enclosure url="https://github.com/elmnt/sketchup/raw/master/sketchup-library.sketch" type="application/octet-stream" sparkle:version="72.0"/>
     </item>
   </channel>
 </rss>
